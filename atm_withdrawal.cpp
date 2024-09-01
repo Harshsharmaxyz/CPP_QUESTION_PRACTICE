@@ -1,3 +1,4 @@
+
 /*write a program that print the current balance of the account ,ask the user to enter the withdrawal amount?
 = if withdrawl amount is less than current balance.
 - deduct the withdrawl amount from the current balance if current balance after deduction is less than 500 INR
